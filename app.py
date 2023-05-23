@@ -15,6 +15,7 @@ def aurora():
 def triplea():
     print("Este es el equipo TripleA")
     print("Alvaro")
+    print("Marcelo")
 
 def botdiscord():
     print("Este es el equipo Bot Discord")
